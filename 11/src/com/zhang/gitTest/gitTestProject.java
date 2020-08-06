@@ -6,4 +6,7 @@ public class gitTestProject {
         System.out.println("hello");
         System.out.println("hello");
     }
+    public void test(){
+
+    }
 }

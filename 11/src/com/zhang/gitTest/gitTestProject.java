@@ -7,6 +7,8 @@ public class gitTestProject {
         System.out.println("hello");
     }
     public void test(){
-
+        int i = 0 ;
+        i += 2;
+        System.out.println(i);
     }
 }
